@@ -1,0 +1,274 @@
+@media  (max-width:1280px) {
+    .logo_menu {
+        height: 64px;
+        width: 765px;
+    }
+    .logo_icon {
+        width: 177px;
+    }
+    .nav_menu a {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .basket button {
+        height: 62px;
+        width: 141px;
+    }
+    .basket_img {
+        height: 49px;
+        width: 49px;
+        margin-left: 4px;
+        margin-top: 4px;
+    }
+    .basket_img img {
+        height: 22px;
+        width: 24px;
+        margin-top: 14px;
+    }
+    .basket button p {
+        font-size: 16px;
+        line-height: 26px;
+        margin-left: 14px;
+        margin-top: 16px;
+    }
+    h1 {
+        font-size: 32px;
+        line-height: 57px;
+    }
+    .welcom h1 {
+        margin: 195px 0px 13px 27px;  
+    }
+    h2 {
+        font-size: 62px;
+        line-height: 75px;
+    }
+    .welcom h2 {
+        margin: 265px 0px 27px 29px;
+    }
+    .welcom button {
+        width: 194px;
+        height: 73px;    
+        border-radius:14px;
+        margin-left: 27px; 
+        margin-top: 514px;
+    }
+    .welcom button p {
+        font-size: 17px;
+        line-height: 29px;
+        margin-left: 30px;    
+    }
+    .natural {
+        width: 588px;
+        height: 335px;
+    }
+    .natural h3,
+    .offer h3 {
+        font-size: 32px;      
+        margin-top: 93px;
+        margin-left: 49px;
+    }
+    .natural h4,
+    .offer h4 {
+        font-size: 35px;
+        margin-left: 44px;    
+    }
+    .offer {
+        width: 588px;
+        height: 335px;
+    }
+    .about_img {
+        width: 597px;
+        height: 568px;
+    }
+    .about_img img {   
+        top: 42px;
+    }
+    .about_info { 
+        height: 651px;
+        width: 597px;   
+        margin-left: 27px;
+    }
+    .about_info h1 {
+        line-height: 56px;
+    }
+    .about_info h2 {
+        font-size: 40px;
+        line-height: 51px;
+    }
+    .about p {
+        font-size: 16px;
+        line-height: 29px;
+        margin: 20px 0px 49px 0px;       
+    }
+    .info_1 {
+        height: 92px;
+        margin-bottom: 27px;
+    }
+    .info_2 {
+        height: 92px;
+        margin-bottom: 45px;
+    }
+    .bowl_img,
+    .box_img {
+        width: 89px;
+        height: 89px;
+    }
+    .bowl_img img {
+        width: 47px;
+        margin-left: calc(50% - 47px/2 + 0.5px);
+        margin-top: calc(50% - 41px/2);
+    }
+    .box_img img {
+        width: 49px;
+        margin-left: calc(50% - 49px/2 + 0.5px);
+        margin-top: calc(50% - 46px/2);
+    }
+    .info_1 h4,
+    .info_2 h4 {
+        font-size: 22px;
+        line-height: 32px;
+        margin-left: 18px;
+    }
+    .info_1 p,
+    .info_2 p {
+        margin-top: 8px;
+        margin-left: 18px;
+    }
+    .about button {
+        width: 176px;
+        height: 73px;
+    }
+    .about button p {
+        font-size: 17px;
+        margin-right: 35px;
+    }
+    .our_products {
+        margin-top: 239px;
+        margin-bottom: 107px;
+    }
+    .our_products h2{
+        font-size: 40px;
+        line-height: 51px;
+    }
+    .prod_list {
+        margin: 27px 18px 0px 18px;
+    }
+    .prod_list > div {
+        width: 395px;
+        height: 522px;
+        margin: 9px;
+        border-radius: 27px;
+    }
+    .kind {
+        border-radius: 8px;
+        height: 33px;
+        width: 105px;
+        margin-top: 27px;
+        margin-left: 27px;
+    }
+    .prod_img {
+        width: 343px;
+        height: 335px;
+        margin-left: 27px;
+    }
+    .offer_prod {
+        height: 938px;    
+    }
+    .eco {
+        height: 624px;
+    }
+    .eco_info {
+        height: 552px;
+        width: 637px;    
+        margin-top: 35px;
+        margin-left: 584px;
+        border-radius: 27px 0px 0px 27px;
+    }
+    .eco_info h1,
+    .eco_info h2,
+    .eco_info h4,
+    .eco_info p {
+        margin-left: 53px;
+    }
+    .eco_info h1 {
+        line-height: 57px;
+        margin-top: 35px;   
+    }
+    .eco_info h2 {
+        font-size: 39px;
+        line-height: 51px;
+        margin-bottom: 27px;
+    }
+    .eco_info h4 {
+        font-size: 21px;
+        line-height: 43px;
+    }
+    .eco_info p {
+        font-size: 16px;
+        line-height: 28px;
+        margin-bottom: 9px;   
+    }
+    .promo_2 {
+        height: 761px;
+    }
+    .juice,
+    .org_food,
+    .nuts {
+        width: 407px;
+        margin-top: 124px;    
+    }
+    .juice button,
+    .org_food button,
+    .nuts button {
+        height: 84px;
+        width: 242px;
+        margin-top: 215px;
+        margin-left: 80px;
+        border-radius: 18px;
+        font-size: 22px;
+    }
+    .sub {
+        max-width: 1221px;
+        height: 284px;   
+    }
+    .sub_name {   
+        margin-top: 89px;
+        margin-left: 62px;
+    }
+    .sub_name h2 {    
+        font-size: 45px;
+        line-height: 53px;
+        margin-left: 62px;
+    }
+    .sub .form {
+        width: 502px;
+        height: 91px;
+        margin-right: 62px;
+    }
+    .sub form {
+        margin-top: 105px;    
+    }
+    .sub form input {
+        width: 310px;
+        height: 73px;
+        border-radius: 14px;
+    }
+    .sub form input::placeholder {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .subscribe button {
+        width: 174px;
+        height: 73px;
+        margin-left: 9px;
+        border-radius: 14px;
+    }
+    .subscribe button p {
+        font-size: 16px;
+        line-height: 26px;
+        margin-right: 27px;
+    }
+    .footer_img {
+        height: 589px;
+    }
+}

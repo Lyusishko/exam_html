@@ -1,0 +1,40 @@
+@media  (max-width:640px) {
+    header {
+        margin: 20px 10px 20px 10px;
+    }
+    .menu {
+        width: 450px;
+    }
+    .welcom {
+        height: 440px;
+    }
+    .welcom h1 {
+        margin-top: 60px;
+    }
+    .welcom h2 {
+        margin-top: 100px;
+    }
+    .welcom button {
+        margin-top: 300px;
+    }
+    .eco {
+        height: 624px;
+    }
+    .eco_info {
+        margin-left: 20px;
+        margin-top: 50px;
+    }
+    .sub {
+        height: 150px;
+    }
+    .sub_name {
+        display: none;
+    }
+    .sub form {
+        margin-left: 110px;
+    }
+    .footer_img {
+        height: 295px;
+    }
+
+}

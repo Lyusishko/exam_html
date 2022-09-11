@@ -1,0 +1,505 @@
+@media  (min-width:1920px) {
+    header {
+        margin: 53px 40px 53px 40px;
+    }
+    .logo_menu {
+        height: 96px;
+        width: 1150px;
+    }
+    .logo_icon {
+        height: 74px;
+        width: 266px;
+        margin-top: 11px;
+    }
+    .nav_menu li {
+        padding: 27px 27px;
+    }
+    .nav_menu a {
+        font-size: 27px;
+        line-height: 43px;
+    }
+    .basket button {
+        border-radius: 44px;
+        height: 93px;
+        width: 211px;
+    }
+    .basket_img {
+        border-radius: 133px;
+        height: 74px;
+        width: 74px;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+    .basket_img img {
+        height: 32px;
+        width: 35px;
+        margin-top: 21px;
+    }
+    .basket button p {
+        font-size: 23px;
+        line-height: 39px;
+        margin-left: 20px;
+        margin-top: 23px;
+    }
+    .welcom {
+        height: 1218px;
+    }
+    h1 {
+        font-size: 48px;
+        line-height: 86px;
+    }
+    .welcom h1 {
+        margin: 293px 0px 19px 40px;  
+    }
+    h2 {
+        font-size: 93px;
+        line-height: 112px;
+    }
+    .welcom h2 {
+        margin: 398px 0px 40px 40px;
+    }
+    .welcom button {
+        width: 291px;
+        height: 109px;    
+        border-radius: 21px;
+        margin-left: 40px; 
+        margin-top: 773px;
+    }
+    .welcom button p {
+        font-size: 25px;
+        line-height: 43px;
+        margin-left: 44px;    
+    }
+    .promo {
+        margin: 186px 40px 186px 40px; 
+    }
+    .natural {
+        width: 884px;
+        height: 503px;
+    }
+    .natural h3,
+    .offer h3 {
+        font-size: 48px;      
+        margin-top: 140px;
+        margin-left: 73px;
+    }
+    .natural h4,
+    .offer h4 {
+        font-size: 53px;
+        margin-left: 73px;    
+    }
+    .offer {
+        width: 884px;
+        height: 503px;
+    }
+    .about  {
+        margin: 0px 40px 0px 40px;
+    }
+    .about_img {
+        width: 898px;
+        height: 854px;
+    }
+    .about_img img {   
+        top: 63px;
+    }
+    .about_info { 
+        height: 979px;
+        width: 898px;   
+        margin-left: 40px;
+    }
+    .about_info h1 {
+        line-height: 84px;
+    }
+    .about_info h2 {
+        font-size: 60px;
+        line-height: 77px;
+    }
+    .about p {
+        font-size: 24px;
+        line-height: 43px;
+        margin: 29px 0px 74px 0px;       
+    }
+    .info_1 {
+        height: 138px;
+        margin-bottom: 40px;
+    }
+    .info_2 {
+        height: 138px;
+        margin-bottom: 67px;
+    }
+    .bowl_img,
+    .box_img {
+        width: 133px;
+        height: 133px;
+    }
+    .bowl_img img {
+        width: 70px;
+        margin-left: calc(50% - 70px/2 + 0.5px);
+        margin-top: calc(50% - 61px/2);
+    }
+    .box_img img {
+        width: 74px;
+        margin-left: calc(50% - 74x/2 + 0.5px);
+        margin-top: calc(50% - 69px/2);
+    }
+    .info_1 h4,
+    .info_2 h4 {
+        font-size: 33px;
+        line-height: 47px;
+        margin-left: 27px;
+    }
+    .info_1 p,
+    .info_2 p {
+        margin-top: 12px;
+        margin-left: 27px;
+    }
+    .about button {
+        width: 265px;
+        height: 109px;
+    }
+    .about button p {
+        font-size: 25px;
+        margin-right: 53px;
+    }
+    .our_products {
+        margin-top: 359px;
+        margin-bottom: 160px;
+    }
+    .our_products h2{
+        font-size: 60px;
+        line-height: 77px;
+    }
+    .prod_list {
+        margin: 40px 27px 0px 27px;
+    }
+    .prod_list > div {
+        width: 593px;
+        height: 785px;
+        margin: 13px;
+        border-radius: 40px;
+    }
+    .kind {
+        border-radius: 11px;
+        height: 49px;
+        width: 157px;
+        margin-top: 40px;
+        margin-left: 40px;
+    }
+    .kind p {
+        font-size: 20px;
+        line-height: 47px;
+    }
+    .prod_img {
+        width: 515px;
+        height: 503px;
+        margin-left: 40px;
+    }
+    .name {
+        margin-left: 40px;
+        margin-right: 40px;
+        height: 61px;
+    }
+    .name p {
+        font-size: 29px;
+        line-height: 47px;
+    }
+    .price {
+        margin-left: 40px;
+        height: 63px;
+        margin-bottom: 28px;
+    }
+    .price p {
+        font-size: 24px;
+        line-height: 43px;
+        margin-right: 13px; 
+        margin-top: 16px;   
+    }
+    .price p span {    
+        font-size: 23px;    
+    }
+    .stars {
+        margin: 24px 40px 0px auto;
+        height: 25px;
+        width: 113px;
+    }
+    .test {
+        height: 1665px;
+    }
+    .test h1 {
+        top: 173px;
+    }
+    .test h2 {
+        font-size: 60px;   
+        margin-top: 146px;
+        margin-bottom: 80px;
+    }
+    .sara_img {
+        width: 153px;
+    }
+    .sara_stars {    
+        width: 164px;
+        height: 36px;
+        margin: 24px auto 40px auto;
+    }
+    .test p {
+        font-size: 24px;
+        line-height: 43px;
+    }
+    .test p span {
+        font-size: 19px;
+        line-height: 36px;
+    }
+    .test h4 {
+        font-size: 35px;
+        line-height: 45px;      
+        margin-top: 31px;
+    }
+    hr {
+        height: 3px;
+        width: 1285px;
+        margin: 128px auto 0px auto;
+    }
+    .circles {
+        min-width: 1468px;
+    }
+    .circl_1,
+    .circl_2,
+    .circl_3,
+    .circl_4 {
+        width: 333px;
+        height: 333px;
+        margin-top: 133px;
+    }
+    .circ_promo {
+        height: 114px;  
+        top: calc(50% - 114px/2);
+    }
+    .circl_1 .circ_promo {
+        width: 138px;    
+        left: calc(50% - 138px/2);    
+    }
+    .circl_2 .circ_promo {
+        width: 177px;
+        left: calc(50% - 177px/2);
+    }
+    .circl_3 .circ_promo {
+        width: 200px;
+        left: calc(50% - 200px/2);
+    }
+    .circl_4 .circ_promo {
+        width: 206px;
+        left: calc(50% - 206px/2);
+    }
+    .circ2 {
+        width: 319px;
+        height: 319px;
+        margin-top: 9px;
+        margin-left: 9px;
+    }
+    .circ_promo p {
+        font-size: 56px;
+        line-height: 47px;       
+    }
+    .circ_promo p span {
+        font-size: 24px;    
+    }
+    .offer_prod {
+        height: 1410px;    
+    }
+    .off_prom {
+        height: 226px;
+        padding: 186px 40px 173px 40px;      
+    }
+    .for_you {
+        height: 186px;
+        width: 907px;
+    }
+    .for_you h1 {
+        line-height: 86px;       
+    }
+    .for_you h2 {    
+        font-size: 60px;
+        line-height: 77px;
+    }
+    .offer_prod .prod_list .product {
+        border-radius: 40px;
+    }
+    .offer_but button {
+        height: 109px;
+        width: 355px;
+        border-radius: 21px;
+        margin-top: 59px;    
+    }
+    .offer_but button p {
+        font-size: 27px;
+        line-height: 43px;
+        margin-right: 40px;
+    }
+    .eco {
+        height: 938px;
+    }
+    .eco_info {
+        height: 829px;
+        width: 958px;    
+        margin-top: 53px;
+        margin-left: 878px;
+        border-radius: 40px 0px 0px 40px;
+    }
+    .eco_info h1,
+    .eco_info h2,
+    .eco_info h4,
+    .eco_info p {
+        margin-left: 80px;
+    }
+    .eco_info h1 {
+        line-height: 86px;
+        margin-top: 52px;   
+    }
+    .eco_info h2 {
+        font-size: 59px;
+        line-height: 77px;
+        margin-bottom: 40px;
+    }
+    .eco_info h4 {
+        font-size: 31px;
+        line-height: 65px;
+    }
+    .eco_info p {
+        font-size: 24px;
+        line-height: 43px;
+        margin-bottom: 13px;   
+    }
+    .promo_2 {
+        height: 1144px;
+    }
+    .juice,
+    .org_food,
+    .nuts {
+        height: 771px;
+        width: 612px;
+        margin-top: 186px;    
+    }
+    .juice button,
+    .org_food button,
+    .nuts button {
+        height: 126px;
+        width: 363px;
+        margin-top: 323px;
+        margin-left: 120px;
+        border-radius: 27px;
+        font-size: 33px;
+    }
+    .sub {
+        min-width: 1835px;
+        height: 426px;   
+        margin: 41px auto 0px auto;   
+    }
+    .sub_name {   
+        margin-top: 133px;
+        height: 160px;
+        width: 430px;
+        margin-left: 93px;
+    }
+    .sub_name h2 {    
+        font-size: 67px;
+        line-height: 80px;
+        margin-left: 93px;
+        height: 160px;
+        width: 430px;
+    }
+    .sub .form {
+        width: 755px;
+        height: 136px;
+        margin-right: 93px;
+    }
+    .sub form {
+        margin-top: 158px;    
+    }
+    .sub form input {
+        width: 466px;
+        height: 109px;
+        border-radius: 21px;
+    }
+    .sub form input::placeholder {
+        font-size: 24px;
+        line-height: 39px;
+    }
+    .subscribe button {
+        width: 262px;
+        height: 109px;
+        margin-left: 13px;
+        border-radius: 21px;
+    }
+    .subscribe button p {
+        font-size: 24px;
+        line-height: 39px;
+        margin-right: 40px;
+    }
+    .foot_info {
+        height: 491px;
+        margin: 114px auto 114px auto;
+    }
+    .contact {
+        height: 491px;
+        width: 359px;
+        margin-left: 88px;        
+    }
+    .contact h3 {
+        font-size: 40px;
+        line-height: 56px;
+        margin-bottom: 47px;
+    }
+    .contact h4 {
+        font-size: 24px;
+        line-height: 31px;
+    }
+    .contact p {
+        font-size: 24px;
+        line-height: 39px;
+        margin-bottom: 53px;
+    }
+    .contacts_footer {
+        height: 491px;
+        width: 891px;
+        margin-right: 27px;
+        margin-left: 27px;
+    }
+    .contacts_footer p {
+        font-size: 24px;
+        line-height: 43px;
+        margin-top: 59px;    
+    }
+    .sites {
+        margin-top: 67px;
+    }
+    .sites > div {
+        margin-left: 13px;
+        margin-right: 13px;
+    }  
+    .fb span,
+    .tw span,
+    .inst span,
+    .pin span {
+        width: 80px;
+        height: 80px;
+    }
+    .pages {
+        height: 491px;
+        width: 442px;    
+    }
+    .pages h3 {
+        font-size: 40px;
+        line-height: 56px;
+        margin-bottom: 27px;
+    }
+    .pages p {
+        font-size: 24px;
+        line-height: 39px;
+        margin-bottom: 32px;
+    }
+    .footer_img {
+        height: 883px;
+    }
+}
+
+        

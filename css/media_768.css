@@ -1,0 +1,12 @@
+@media  (max-width:768px) {
+    .sub_name {
+        width: 150px;
+    }
+    .sub .form {
+        width: 322px;
+        margin-right: 150px;
+    }
+    .footer_img {
+        height: 353px;
+    }
+}

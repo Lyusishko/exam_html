@@ -1,0 +1,202 @@
+@media  (max-width:1152px) {
+    .welcom {
+        height: 732px;
+    }
+    .natural {
+        width: 523px;
+        height: 298px;
+    }
+    .natural h3,
+    .offer h3 {
+        font-size: 28px;      
+        margin-top: 83px;
+        margin-left: 44px;
+    }
+    .natural h4,
+    .offer h4 {
+        font-size: 31px;
+        margin-left: 39px;    
+    }
+    .offer {
+        width: 523px;
+        height: 298px;
+    }
+    .about_img {
+        width: 531px;
+        height: 506px;
+    }
+    .about_img img {   
+        top: 37px;
+    }
+    .about_info { 
+        height: 579px;
+        width: 531px;   
+        margin-left: 24px;
+    }
+    .about_info h1 {
+        line-height: 50px;
+    }
+    .about_info h2 {
+        font-size: 36px;
+        line-height: 45px;
+    }
+    .about p {
+        font-size: 14px;
+        line-height: 26px;
+        margin: 18px 0px 44px 0px;       
+    }
+    .info_1 {
+        height: 82px;
+        margin-bottom: 24px;
+    }
+    .info_2 {
+        height: 82px;
+        margin-bottom: 40px;
+    }
+    .bowl_img,
+    .box_img {
+        width: 79px;
+        height: 79px;
+    }
+    .bowl_img img {
+        width: 42px;
+        margin-left: calc(50% - 42px/2 + 0.5px);
+        margin-top: calc(50% - 36px/2);
+    }
+    .box_img img {
+        width: 44px;
+        margin-left: calc(50% - 44px/2 + 0.5px);
+        margin-top: calc(50% - 41px/2);
+    }
+    .info_1 h4,
+    .info_2 h4 {
+        font-size: 19px;
+        line-height: 28px;
+        margin-left: 16px;
+    }
+    .info_1 p,
+    .info_2 p {
+        margin-top: 7px;
+        margin-left: 16px;
+    }
+    .about button {
+        width: 157px;
+        height: 65px;
+    }
+    .about button p {
+        font-size: 15px;
+        margin-right: 31px;
+    }
+    .prod_list {
+        justify-content: space-evenly;
+    }
+    .offer_prod {
+        height: 1500px;
+    }
+    .offer_prod .prod_list {
+        justify-content: space-around;
+    }
+    .eco {
+        height: 555px;
+    }
+    .eco_info {
+        height: 491px;
+        width: 567px;    
+        margin-top: 31px;
+        margin-left: 520px;
+        border-radius: 24px 0px 0px 24px;
+    }
+    .eco_info h1,
+    .eco_info h2,
+    .eco_info h4,
+    .eco_info p {
+        margin-left: 47px;
+    }
+    .eco_info h1 {
+        line-height: 51px;
+        margin-top: 31px;   
+    }
+    .eco_info h2 {
+        font-size: 35px;
+        line-height: 45px;
+        margin-bottom: 24px;
+    }
+    .eco_info h4 {
+        font-size: 19px;
+        line-height: 38px;
+    }
+    .eco_info p {
+        font-size: 14px;
+        line-height: 25px;
+        margin-bottom: 8px;   
+    }
+    .promo_2 {
+        height: 677px;
+    }
+    .juice,
+    .org_food,
+    .nuts {
+        width: 362px;
+        margin-top: 110px;    
+    }
+    .juice button,
+    .org_food button,
+    .nuts button {
+        height: 75px;
+        width: 215px;
+        margin-top: 191px;
+        margin-left: 71px;
+        border-radius: 16px;
+        font-size: 20px;
+    }
+    .sub {
+        max-width: 1087px;
+        height: 253px;   
+    }
+    .sub_name {   
+        margin-top: 79px;
+        margin-left: 55px;
+    }
+    .sub_name h2 {    
+        font-size: 40px;
+        line-height: 47px;
+        margin-left: 55px;
+    }
+    .sub .form {
+        width: 447px;
+        height: 81px;
+        margin-right: 55px;
+    }
+    .sub form {
+        margin-top: 93px;    
+    }
+    .sub form input {
+        width: 276px;
+        height: 65px;
+        border-radius: 12px;
+    }
+    .sub form input::placeholder {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .subscribe button {
+        width: 155px;
+        height: 65px;
+        margin-left: 8px;
+        border-radius: 12px;
+    }
+    .subscribe button p {
+        font-size: 14px;
+        line-height: 23px;
+        margin-right: 24px;
+    }
+    .contact p {
+        font-size: 16px;
+    }
+    .contacts_footer p {
+        font-size: 15px;
+    }
+    .footer_img {
+        height: 524px;
+    }    
+}
